@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/report_add.png</file>
+        <file>icons/report_disk.png</file>
+        <file>icons/shape_group.png</file>
+        <file>icons/plugin.png</file>
+        <file>icons/disk.png</file>
+        <file>icons/page_white_add.png</file>
+        <file>icons/page_white_cd.png</file>
+        <file>icons/information.png</file>
+        <file>icons/wrench_orange.png</file>
+        <file>icons/TabClose_NB.png</file>
+        <file>icons/TabClose_N.png</file>
+        <file>icons/find.png</file>
+        <file>icons/text_replace.png</file>
+        <file>icons/paste_plain.png</file>
+        <file>icons/page_copy.png</file>
+        <file>icons/cut.png</file>
+        <file>icons/arrow_undo.png</file>
+        <file>icons/arrow_redo.png</file>
+    </qresource>
+</RCC>
